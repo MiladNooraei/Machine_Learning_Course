@@ -5,4 +5,4 @@ In this repository, I am summarizing my machine learning course and leaving my n
 
 ## Description
 
-The first course I am completing is [Unsupervised Learning, Recommenders, Reinforcement](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) taught by [Andrew Ng](https://www.andrewng.org/).
+The first course I am completing is [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning) taught by [Andrew Ng](https://www.andrewng.org/).
